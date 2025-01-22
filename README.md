@@ -14,6 +14,8 @@
 
 *PLATFORM USED*: VISUAL STUDIO CODE
 
+*TOOLS USED*: VIRTUAL ENVIRONMENT
+
 *DESCRIPTION*:
 
 The code begins with reading data from a CSV file. The read_data function is responsible for opening the CSV file, reading its contents line by line, and storing each row in a list. This data is then printed for debugging purposes. This function returns a list of lists, where each inner list represents a row of data from the CSV file.

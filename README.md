@@ -51,6 +51,6 @@ Save and run the Python script to read the data, perform analysis, and generate 
 
 Verify the output by checking the terminal for debug prints and opening the generated PDF file.
 
-#OUTPUT:
+*OUTPUT*:
 
 ![Image](https://github.com/user-attachments/assets/3440487b-118f-4946-8ec5-c006dba19caf)
